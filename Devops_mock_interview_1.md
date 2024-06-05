@@ -10,7 +10,8 @@ GIT
 3. difference between git pull and git fetch?
 - ANSWER: 
 4. How to clone specific branch in git?
-- ANSWER: 
+- ANSWER:
+
 Maven
 --------------------------------------------------------------------------------------------------------------------------
 5. when i issue mvn install what all things happen in background?
