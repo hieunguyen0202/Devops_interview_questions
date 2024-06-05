@@ -4,10 +4,13 @@
 GIT
 ---------------------------------------------------------------------------------------------------------------------------------
 1. Why we need git? What makes git unique from other tools like SVN?
+- ANSWER: 
 2. Let's say i have maven repo cloned on to my local, did some changes and i have build the code now target folder will be generated. So now when i do git operations like git add, git commit or any other git operations target folder should not be considered, how would you achieve the same?
+- ANSWER: 
 3. difference between git pull and git fetch?
+- ANSWER: 
 4. How to clone specific branch in git?
-
+- ANSWER: 
 Maven
 --------------------------------------------------------------------------------------------------------------------------
 5. when i issue mvn install what all things happen in background?
